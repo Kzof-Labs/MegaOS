@@ -15,7 +15,7 @@ I posted this here because I think it's cool to look back and see the things tha
 **With MegaOS you can:**
 
 - Change your Wallpaper (We have default wallpapers, but you can customize with every image that you want)
-- Navegate in the Internet with our Navigator, the PowerPlus (I couldn't come up with a better name, sorry)
+- Navegate in the Internet with our Browser, the PowerPlus (I couldn't come up with a better name, sorry)
 - Change the color of the Taskbar
 
 
