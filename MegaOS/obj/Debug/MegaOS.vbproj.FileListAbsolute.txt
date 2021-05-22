@@ -1,0 +1,45 @@
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\bin\Debug\MegaOS.exe.config
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\bin\Debug\MegaOS.exe
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\bin\Debug\MegaOS.pdb
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\bin\Debug\MegaOS.xml
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.configuracoes.resources
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.desktop.resources
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.MenuOS.resources
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.Resources.resources
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.vbproj.GenerateResource.Cache
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.exe
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.xml
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.pdb
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.PowerPlus.resources
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.NotePad.resources
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.SobreNotepad.resources
+C:\Users\lucas\OneDrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.vbprojResolveAssemblyReference.cache
+C:\Users\lucas\OneDrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.PainelDeControle.resources
+C:\Users\lucas\OneDrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.AjudaNTP.resources
+C:\Users\lucas\OneDrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.Usuario.resources
+C:\Users\lucas\OneDrive\documentos\visual studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.NomeUSER.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.LoginForm1.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.UpdateBoost.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\bin\Debug\MegaOS.exe.config
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\bin\Debug\MegaOS.exe
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\bin\Debug\MegaOS.pdb
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\bin\Debug\MegaOS.xml
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.vbprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.AjudaNTP.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.configuracoes.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.desktop.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.LoginForm1.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.MenuOS.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.Resources.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.NomeUSER.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.NotePad.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.PainelDeControle.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.PowerPlus.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.SobreNotepad.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.UpdateBoost.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.Usuario.resources
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.vbproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.exe
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.xml
+C:\Users\lucas\OneDrive\Documentos\Coisas aleatorias\Visual Studio 2015\Projects\MegaOS\MegaOS\obj\Debug\MegaOS.pdb
