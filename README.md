@@ -1,4 +1,6 @@
-# megaos
+## MegaOS - Operating System 🔧
+
+>Status: Development Paused
 
 **THIS WAS JUST 4FUN, I MADE THIS IN 2016 (I WAS 11)**
 
@@ -17,4 +19,6 @@ I posted this here because I think it's cool to look back and see the things tha
 - Change the color of the Taskbar
 
 
-I don't think I'm gonna update this on the future, but who knows?
+I don't think I'm gonna update this on the future, but who knows? 
+
+
